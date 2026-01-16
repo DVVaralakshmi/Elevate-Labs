@@ -130,6 +130,3 @@ By completing this task, I gained a clear understanding of:
 - Preparing datasets for machine learning workflows  
 
 ---
-
-## 📁 Repository Structure  
-
