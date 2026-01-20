@@ -1,6 +1,0 @@
-age,hours_per_week,income,workclass_Self-emp,workclass_State-gov,education_Bachelors,education_HS-grad
--0.2888175847069097,0.49999999999999994,0,False,True,True,False
-0.9331029659761692,-2.0000000000000004,0,True,False,True,False
--0.3999012711326441,0.49999999999999994,0,False,False,False,True
-1.2663540252533725,0.49999999999999994,0,False,False,False,False
--1.5107381353899885,0.49999999999999994,1,False,False,True,False
